@@ -1,0 +1,30 @@
+/* 124, 132, 131 */
+/* 96, 91, 86 */
+/*131, 122, 117*/
+
+body {
+    background-color: #F2FBE0;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgb(124, 132, 131);
+    height: 2.5rem;
+
+}
+img {
+    
+    width: 50rem;
+    height: 40rem;
+    
+}
+.firstimg {
+    text-align: center;
+}
+
+img:hover {
+    width: 60rem;
+    height: 40rem;
+}
